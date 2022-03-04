@@ -1,0 +1,3 @@
+- Hello, I’m @BenjaminWHemmers
+- This Github account consists of repositories used for the management and security of personal projects
+- It is primarily used for pixel art, music, and short stories used for the online series 'AVALON'
